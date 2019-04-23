@@ -1,2 +1,2 @@
 # Virtual-Reality
-Folder containingpProjects related to Virtual Reality using Unity.
+Folder containing projects related to Virtual Reality using Unity.
